@@ -1,8 +1,7 @@
 # 📦 Simple Input Re-runner 
 
-(add your badges here)
 
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
+> *My first real project/tool, please enjoy*
 
 
 ## 🌟 Highlights
