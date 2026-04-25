@@ -34,7 +34,7 @@ Use the UI to select start recording. End recording with the stop recording butt
 
 
 ```bash
-pip install my-package
+pip install -r requirements.txt
 ```
 
 
