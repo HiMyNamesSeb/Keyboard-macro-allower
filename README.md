@@ -39,3 +39,5 @@ pip install -r requirements.txt
 
 ## 💭 Feedback and Contributing
 
+Feel free to comment here
+https://github.com/HiMyNamesSeb/Simple_Input_Re-runner/discussions/1
